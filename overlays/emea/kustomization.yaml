@@ -1,0 +1,5 @@
+Kind: Kustomization
+
+bases:
+- ../../base
+nameSuffix: -emea
